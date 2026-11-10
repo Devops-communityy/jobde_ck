@@ -1,0 +1,20 @@
+{
+  "role": "Senior DevOps Engineer (GCP)",
+  "role_slug": "devops-gcp",
+  "level_slug": "senior",
+  "company": "DHL",
+  "experience": "3+ Years",
+  "experience_note": "3+ yrs GCP · 2+ yrs Kubernetes",
+  "salary": "Not disclosed",
+  "employment_type": "Full-time",
+  "work_mode": "Permanent role",
+  "city": "Chennai",
+  "location_note": "India · Flexible work options",
+  "openings": "Hiring now",
+  "openings_note": "Apply early",
+  "skills": ["GCP", "Kubernetes / GKE", "Terraform", "Jenkins", "GitHub Actions", "Argo CD", "Prometheus", "Grafana", "Helm"],
+  "eligibility": "3+ yrs with Google Cloud Platform and 2+ yrs Kubernetes (GKE preferred); Agile/Scrum experience and strong English.",
+  "source": "JoinDevOps",
+  "posted": "10 Nov 2026",
+  "apply_url": "https://jobs.joindevops.com/jobs/801196605-senior-devops-engineer"
+}
