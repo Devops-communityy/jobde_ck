@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&amp;family=JetBrains+Mono:wght@400;600;700&amp;display=swap">
+<style>
+body{margin:0}
+.mono{font-family:'JetBrains Mono',monospace}
+.card{background:#121A23;border:1px solid #22303D;border-radius:18px;padding:18px 24px;display:flex;flex-direction:column;gap:4px}
+.lbl{font-family:'JetBrains Mono',monospace;font-size:17px;color:#8B98A5;letter-spacing:2px}
+.val{font-size:34px;font-weight:700;color:#FFFFFF;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.note{font-size:19px;color:#A9B6C2}
+.chip{font-family:'JetBrains Mono',monospace;font-size:19px;font-weight:600;color:#22D3A6;background:#0F2A24;border-radius:10px;padding:8px 14px}
+</style>
+</head>
+<body>
+<div style="width:1080px;height:1080px;box-sizing:border-box;padding:56px 64px 52px;background:#0B0F14;color:#E6EDF3;font-family:'Space Grotesk',system-ui,sans-serif;display:flex;flex-direction:column;gap:26px;overflow:hidden">
+
+<div style="display:flex;justify-content:space-between;align-items:center">
+  <div style="display:flex;align-items:center;gap:16px">
+    {{LOGO}}
+    <div class="mono" style="font-size:28px;font-weight:700;color:#FFFFFF">@jobde_ck</div>
+  </div>
+  <div class="mono" style="font-size:19px;font-weight:600;color:#22D3A6;border:2px solid #22D3A6;border-radius:999px;padding:8px 20px;letter-spacing:2px">DEVOPS JOBS</div>
+</div>
+
+<div style="display:flex;flex-direction:column;gap:12px">
+  <div class="mono" style="font-size:22px;color:#8B98A5"><span style="color:#22D3A6">$</span> hiring --role {{ROLE_SLUG}} --level {{LEVEL_SLUG}}</div>
+  <div class="mono" style="font-size:24px;font-weight:700;color:#22D3A6;letter-spacing:6px">WE'RE HIRING</div>
+  <h1 style="margin:0;font-size:{{ROLE_SIZE}}px;line-height:1.02;font-weight:700;color:#FFFFFF;letter-spacing:-1.5px">{{ROLE}}</h1>
+  <div style="font-size:34px;font-weight:500;color:#C9D4DE">{{COMPANY}}</div>
+</div>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px">
+  <div class="card"><div class="lbl">EXPERIENCE</div><div class="val">{{EXPERIENCE}}</div><div class="note">{{EXPERIENCE_NOTE}}</div></div>
+  {{SALARY_CARD}}
+  <div class="card"><div class="lbl">LOCATION</div><div class="val">{{CITY}}</div><div class="note">{{LOCATION_NOTE}}</div></div>
+  {{FOURTH_CARD}}
+</div>
+
+<div style="display:flex;flex-direction:column;gap:12px">
+  <div class="lbl">TECH STACK</div>
+  <div style="display:flex;flex-wrap:wrap;gap:10px">{{CHIPS}}</div>
+</div>
+
+<div style="font-size:22px;line-height:1.45;color:#C9D4DE"><span style="color:#FFFFFF;font-weight:700">Eligible:</span> {{ELIGIBILITY}}</div>
+
+<div style="margin-top:auto;background:#22D3A6;border-radius:18px;padding:20px 30px;display:flex;justify-content:space-between;align-items:center">
+  <div style="display:flex;flex-direction:column;gap:2px">
+    <div style="font-size:30px;font-weight:700;color:#06231C">Apply now · Link in bio</div>
+    <div style="font-size:19px;font-weight:500;color:#0B3A2F">Listed on {{SOURCE}} · Posted {{POSTED}}</div>
+  </div>
+  <svg aria-hidden="true" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#06231C" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"></path><path d="M13 6l6 6-6 6"></path></svg>
+</div>
+
+</div>
+</body>
+</html>
