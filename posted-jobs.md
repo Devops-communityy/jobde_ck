@@ -3,6 +3,7 @@ Format: - YYYY-MM-DD HH:MM IST | Company | Role | Apply URL | Instagram media id
 
 - 2026-11-11 01:55 IST | LSEG | AWS DevOps Engineer (Bengaluru) | https://jobs.joindevops.com/jobs/802273871-aws-devops-engineer | 18142519513532623
 - 2026-11-11 02:05 IST | HashedIn by Deloitte | DevOps Manager (Bengaluru) | https://jobs.joindevops.com/jobs/802138584-devops-manager | 17915943387508786 | 17951675043354503
+- 2026-11-11 02:15 IST | DHL | Senior DevOps Engineer (GCP) (Chennai) | https://jobs.joindevops.com/jobs/801196605-senior-devops-engineer | 18129402157851612 | 17953366608056107
 
 ## Earlier posts (manual / pre-automation)
 - 2026-11-02 | Reizend Private Limited | Junior DevOps Engineer | Naukri listing (posted manually)
