@@ -5,6 +5,7 @@ Format: - YYYY-MM-DD HH:MM IST | Company | Role | Apply URL | Instagram media id
 - 2026-11-11 02:05 IST | HashedIn by Deloitte | DevOps Manager (Bengaluru) | https://jobs.joindevops.com/jobs/802138584-devops-manager | 17915943387508786 | 17951675043354503
 - 2026-11-11 02:15 IST | DHL | Senior DevOps Engineer (GCP) (Chennai) | https://jobs.joindevops.com/jobs/801196605-senior-devops-engineer | 18129402157851612 | 17953366608056107
 - 2026-11-11 02:24 IST | Luxoft | DevOps Engineer (Pune) | https://jobs.joindevops.com/jobs/802273868-devops-engineer | 18129843739880926 | 18138533137640823
+- 2026-11-11 02:39 IST | Innocito | Senior DevOps Engineer (Hyderabad) | https://jobs.joindevops.com/jobs/801196606-senior-devops-engineer | 17899319586615174 | 17998193913022342
 
 ## Earlier posts (manual / pre-automation)
 - 2026-11-02 | Reizend Private Limited | Junior DevOps Engineer | Naukri listing (posted manually)
