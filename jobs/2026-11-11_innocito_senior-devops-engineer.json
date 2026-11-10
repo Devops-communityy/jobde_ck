@@ -1,0 +1,20 @@
+{
+  "role": "Senior DevOps Engineer",
+  "role_slug": "devops-aws",
+  "level_slug": "senior",
+  "company": "Innocito",
+  "experience": "5–8 Years",
+  "experience_note": "Hands-on AWS + CI/CD",
+  "salary": "Not disclosed",
+  "employment_type": "Full-time",
+  "work_mode": "Work from office",
+  "city": "Hyderabad",
+  "location_note": "WFO · Telangana, India",
+  "openings": "Hiring now",
+  "openings_note": "Apply early",
+  "skills": ["AWS", "EC2", "S3", "IAM", "VPC", "CloudWatch", "Bitbucket", "CI/CD", "Terraform"],
+  "eligibility": "5–8 yrs DevOps; strong hands-on AWS and Bitbucket Pipelines. AWS / Terraform / CKA certs a plus, not mandatory.",
+  "source": "JoinDevOps",
+  "posted": "10 Nov 2026",
+  "apply_url": "https://jobs.joindevops.com/jobs/801196606-senior-devops-engineer"
+}
