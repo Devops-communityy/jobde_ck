@@ -1,0 +1,20 @@
+{
+  "role": "DevOps Engineer 2",
+  "role_slug": "devops-aws",
+  "level_slug": "mid-senior",
+  "company": "Moneyview",
+  "experience": "4.5–7 Years",
+  "experience_note": "AWS · Jenkins CI/CD · Monitoring",
+  "salary": "Not disclosed",
+  "employment_type": "Full-time",
+  "work_mode": "Fintech product co.",
+  "city": "Bengaluru",
+  "location_note": "Karnataka, India",
+  "openings": "Hiring now",
+  "openings_note": "Apply early",
+  "skills": ["AWS", "Jenkins", "CI/CD", "Terraform", "Terragrunt", "Linux", "Python", "Datadog", "ELK"],
+  "eligibility": "4.5–7 yrs DevOps; release management with Jenkins CI/CD, monitoring tools and AWS. On-call support may be required.",
+  "source": "JoinDevOps",
+  "posted": "11 Nov 2026",
+  "apply_url": "https://jobs.joindevops.com/jobs/783277022-devops-engineer"
+}
