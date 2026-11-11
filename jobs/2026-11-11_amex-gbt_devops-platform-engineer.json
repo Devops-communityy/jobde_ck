@@ -1,0 +1,20 @@
+{
+  "role": "DevOps Platform Engineer",
+  "role_slug": "devops-platform",
+  "level_slug": "mid-senior",
+  "company": "Amex GBT",
+  "experience": "5+ Years",
+  "experience_note": "Jenkins, GitHub Actions, K8s",
+  "salary": "Not disclosed",
+  "employment_type": "Full-time",
+  "work_mode": "CI/CD & Platform",
+  "city": "Bengaluru",
+  "location_note": "Karnataka, India",
+  "openings": "Hiring now",
+  "openings_note": "Apply early",
+  "skills": ["Jenkins", "GitHub Actions", "Kubernetes", "OpenShift", "Ansible", "Nexus", "Groovy", "YAML", "Shell"],
+  "eligibility": "5 yrs Jenkins, GitHub Actions & OpenShift/K8s; 3 yrs Ansible & scripting. Bachelor's in CS/Engg or equivalent.",
+  "source": "JoinDevOps",
+  "posted": "10 Nov 2026",
+  "apply_url": "https://jobs.joindevops.com/jobs/802393730-devops-platform-engineer"
+}
