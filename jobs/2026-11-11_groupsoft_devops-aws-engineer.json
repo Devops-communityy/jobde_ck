@@ -1,0 +1,20 @@
+{
+  "role": "DevOps AWS Engineer",
+  "role_slug": "devops-aws",
+  "level_slug": "mid",
+  "company": "Groupsoft US",
+  "experience": "3–4 Years",
+  "experience_note": "Hands-on DevOps / Cloud",
+  "salary": "Not disclosed",
+  "employment_type": "In-Office",
+  "work_mode": "Mid level",
+  "city": "Pune",
+  "location_note": "Maharashtra, India",
+  "openings": "Hiring now",
+  "openings_note": "Apply early",
+  "skills": ["AWS", "Kubernetes", "Docker", "Terraform", "Helm", "CI/CD", "Jenkins", "Linux", "Grafana"],
+  "eligibility": "3–4 yrs hands-on DevOps/Cloud; strong AWS, Docker, K8s, CI/CD. Bachelor's in CS, IT, Engg or related.",
+  "source": "Built In Pune",
+  "posted": "10 Nov 2026",
+  "apply_url": "https://builtinpune.in/job/devops-aws-engineer/12161730"
+}
