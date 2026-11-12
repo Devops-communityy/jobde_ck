@@ -1,0 +1,20 @@
+{
+  "role": "Lead DevOps Engineer",
+  "role_slug": "lead-devops",
+  "level_slug": "lead",
+  "company": "Onit",
+  "experience": "8+ Years",
+  "experience_note": "Lead prod Kubernetes on AWS",
+  "salary": "Not disclosed",
+  "employment_type": "Senior level",
+  "work_mode": "Hybrid",
+  "city": "Pune",
+  "location_note": "Hybrid · Maharashtra, India",
+  "openings": "Hiring now",
+  "openings_note": "Apply early",
+  "skills": ["AWS EKS", "Kubernetes", "Helm", "Terraform", "Ansible", "Jenkins / GitLab CI", "Docker", "Grafana / OTel", "PostgreSQL / Redis"],
+  "eligibility": "8+ yrs DevOps/SRE/cloud platform, incl. leading prod infra. Own multi-cloud K8s on AWS, IaC, CI/CD, DR and incidents.",
+  "source": "Built In Pune",
+  "posted": "11 Nov 2026",
+  "apply_url": "https://builtinpune.in/job/lead-devops-engineer/12183953"
+}
