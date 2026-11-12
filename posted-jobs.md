@@ -10,6 +10,7 @@ Format: - YYYY-MM-DD HH:MM IST | Company | Role | Apply URL | Instagram media id
 - 2026-11-11 13:13 IST | American Express Global Business Travel | DevOps Platform Engineer (Bengaluru) | https://jobs.joindevops.com/jobs/802393730-devops-platform-engineer | 18385867873237160 | 18122107852965853
 - 2026-11-11 18:14 IST | Moneyview | DevOps Engineer 2 (Bengaluru) | https://jobs.joindevops.com/jobs/783277022-devops-engineer | 17959586562273842 | 18111555256898376
 - 2026-11-12 09:19 IST | WhiteBlue | Azure DevOps Engineer (Chennai) | https://jobs.joindevops.com/jobs/802273873-azure-devops-engineer | 17912476665664056 | 18043767185838673
+- 2026-11-12 13:13 IST | Onit | Lead DevOps Engineer (Pune) | https://builtinpune.in/job/lead-devops-engineer/12183953 | 18156643891549643 | 17893143555686780
 
 ## Earlier posts (manual / pre-automation)
 - 2026-11-02 | Reizend Private Limited | Junior DevOps Engineer | Naukri listing (posted manually)
