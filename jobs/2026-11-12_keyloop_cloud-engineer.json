@@ -1,0 +1,20 @@
+{
+  "role": "Cloud Engineer",
+  "role_slug": "cloud-engineer",
+  "level_slug": "senior",
+  "company": "Keyloop",
+  "experience": "6+ Years",
+  "experience_note": "4+ yrs AWS · 2+ yrs Azure",
+  "salary": "Not disclosed",
+  "employment_type": "Full-time",
+  "work_mode": "Permanent role",
+  "city": "Hyderabad",
+  "location_note": "Hyderabad, India",
+  "openings": "Hiring now",
+  "openings_note": "Apply early",
+  "skills": ["AWS", "Azure", "Terraform", "CloudFormation", "GitHub Actions", "IAM / EC2 / S3", "CloudWatch", "Route 53", "Bash / Python"],
+  "eligibility": "6+ yrs cloud/DevOps/infra engineering. Build Terraform modules for AWS & Azure, GitHub Actions pipelines, backups and alarms.",
+  "source": "JoinDevOps",
+  "posted": "12 Nov 2026",
+  "apply_url": "https://jobs.joindevops.com/jobs/803279866-cloud-engineer"
+}
