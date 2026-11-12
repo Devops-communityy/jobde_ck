@@ -15,18 +15,19 @@ body{margin:0}
 </style>
 </head>
 <body>
-<div style="width:1080px;height:1080px;box-sizing:border-box;padding:56px 64px 52px;background-color:#0B3A82;background-image:linear-gradient(rgba(127,184,255,0.13) 1px,transparent 1px),linear-gradient(90deg,rgba(127,184,255,0.13) 1px,transparent 1px);background-size:40px 40px;color:#FFFFFF;font-family:'Space Grotesk',system-ui,sans-serif;display:flex;flex-direction:column;gap:26px;overflow:hidden">
+<div style="width:1080px;height:1080px;box-sizing:border-box;padding:40px 64px 48px;background-color:#0B3A82;background-image:linear-gradient(rgba(127,184,255,0.13) 1px,transparent 1px),linear-gradient(90deg,rgba(127,184,255,0.13) 1px,transparent 1px);background-size:40px 40px;color:#FFFFFF;font-family:'Space Grotesk',system-ui,sans-serif;display:flex;flex-direction:column;gap:26px;overflow:hidden">
 
 <div style="display:flex;justify-content:space-between;align-items:center;border-bottom:2px solid #5FA8FF;padding-bottom:18px">
-  <div style="display:flex;align-items:center;gap:16px">
+  <div style="display:flex;align-items:center;gap:22px">
     {{LOGO}}
-    <div class="mono" style="font-size:28px;font-weight:700">@jobde_ck</div>
+    <div style="display:flex;flex-direction:column;gap:8px">
+      <div class="mono" style="font-size:22px;color:#7FB8FF">kind: JobOpening · level: {{LEVEL_SLUG}}</div>
+    </div>
   </div>
   <div class="mono" style="font-size:19px;font-weight:600;color:#BFE0FF;letter-spacing:2px">[ OPEN ROLE ]</div>
 </div>
 
 <div style="display:flex;flex-direction:column;gap:12px">
-  <div class="mono" style="font-size:22px;color:#7FB8FF">kind: JobOpening · level: {{LEVEL_SLUG}}</div>
   <h1 style="margin:0;font-size:{{ROLE_SIZE}}px;line-height:1.02;font-weight:700;letter-spacing:-1.5px">{{ROLE}}</h1>
   <div style="font-size:34px;font-weight:500;color:#FFB547">{{COMPANY}}</div>
 </div>

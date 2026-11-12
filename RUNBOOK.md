@@ -31,7 +31,7 @@ Write `jobs/<YYYY-MM-DD>_<company-slug>_<role-slug>.json` (see existing files fo
 Render: `python3 scripts/render_poster.py jobs/<file>.json posters/<same-name>.jpg`
 (needs Python Playwright; uses /usr/bin/google-chrome if present, else `python3 -m playwright install chromium`).
 Open the JPEG and check nothing overflows or is cut off; shorten text and re-render if needed.
-Templates rotate WEEKLY (Mon–Sun, IST): `templates/weekly/1-terminal-dark.html` → `2-paper-light.html` → `3-gradient-glass.html` → `4-blueprint.html` → back to 1. The week of Mon 9 Nov 2026 is template 1. `render_poster.py` picks the week's template automatically — don't pass `--template` in scheduled runs and don't change the designs. To add a design, drop a new `N-name.html` with the same `{{PLACEHOLDERS}}` into `templates/weekly/`.
+The JobDeck logo (`assets/logo.png`) is shown top-left on every template; the renderer auto-shrinks long role titles so nothing overflows. Templates rotate WEEKLY (Mon–Sun, IST): `templates/weekly/1-terminal-dark.html` → `2-paper-light.html` → `3-gradient-glass.html` → `4-blueprint.html` → back to 1. The week of Mon 9 Nov 2026 is template 1. `render_poster.py` picks the week's template automatically — don't pass `--template` in scheduled runs and don't change the designs. To add a design, drop a new `N-name.html` with the same `{{PLACEHOLDERS}}` into `templates/weekly/`.
 
 Commit + push the JSON and JPEG to `main`. Confirm the image URL returns 200:
 `https://raw.githubusercontent.com/Devops-communityy/jobde_ck/main/posters/<file>.jpg`

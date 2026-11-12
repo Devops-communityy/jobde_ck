@@ -49,7 +49,7 @@ def build(job, template):
     role = job["role"]
     role_size = 84 if len(role) <= 22 else 70
     logos = glob.glob(LOGO_GLOB)
-    logo = (f'<img src="file://{logos[0]}" style="height:56px;width:56px;object-fit:contain;border-radius:12px">'
+    logo = (f'<img src="file://{logos[0]}" style="height:116px;width:116px;object-fit:contain;border-radius:50%;display:block">'
             if logos else "")
     out = template.read_text()
     for k, v in {
@@ -78,6 +78,14 @@ def main(job_path, out_path, override=None):
         pg = b.new_page(viewport={"width": 1080, "height": 1080})
         pg.goto(tmp.resolve().as_uri())
         pg.wait_for_timeout(1500)
+        # Auto-fit: shrink the role title until the card fits in 1080px.
+        pg.evaluate("""() => {
+          const root = document.body.firstElementChild, h1 = root.querySelector('h1');
+          let size = parseFloat(getComputedStyle(h1).fontSize);
+          while (root.scrollHeight > 1080 && size > 50) { size -= 4; h1.style.fontSize = size + 'px'; }
+        }""")
+        if pg.evaluate("document.body.firstElementChild.scrollHeight") > 1080:
+            print("WARNING: poster still overflows; shorten eligibility/skills", file=sys.stderr)
         pg.screenshot(path=out_path, type="jpeg", quality=92, clip={"x": 0, "y": 0, "width": 1080, "height": 1080})
         b.close()
     tmp.unlink()
