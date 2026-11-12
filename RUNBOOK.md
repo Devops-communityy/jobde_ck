@@ -47,11 +47,14 @@ Instagram: connector `instagram`, account `17841414093079899` (jobde_ck), action
 🛠 <5–7 skills, · separated>
 
 🔗 Apply here: <apply URL>
+🤝 In collab with @devops__community
 🔔 Follow @jobde_ck for daily DevOps jobs
 
 #DevOpsJobs #<RoleTag> #<City>Jobs #<Cloud> #Kubernetes #DevOps #Hiring #SRE #CloudJobs
 ```
-Threads: connector `threads`, account `29650479181305162`, action `create_image_post`, params `image_url`, `text` (≤ 500 chars): same lines, shorter skills, full `https://` apply URL, 2 hashtags.
+Threads: connector `threads`, account `29650479181305162`, action `create_image_post`, params `image_url`, `text` (≤ 500 chars): same lines, shorter skills, full `https://` apply URL, the line `🤝 In collab with @devops__community` just above 2 hashtags.
+
+Windsor's Instagram/Threads actions have no collaborator-invite option, so @devops__community is credited by @mention in both posts.
 
 Post to both. If one fails, still post to the other, then report the failure.
 
