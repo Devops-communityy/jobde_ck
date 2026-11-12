@@ -1,0 +1,20 @@
+{
+  "role": "Azure DevOps Engineer",
+  "role_slug": "azure-devops",
+  "level_slug": "mid-senior",
+  "company": "WhiteBlue",
+  "experience": "4+ Years",
+  "experience_note": "Azure DevOps · Terraform · AKS",
+  "salary": "Not disclosed",
+  "employment_type": "Full-time",
+  "work_mode": "Permanent role",
+  "city": "Chennai",
+  "location_note": "Tamil Nadu, India",
+  "openings": "Hiring now",
+  "openings_note": "Apply early",
+  "skills": ["Azure DevOps", "YAML Pipelines", "Terraform", "AKS", "App Service", "PowerShell / Bash", "GitHub", "Azure Monitor", ".NET CI/CD"],
+  "eligibility": "4+ yrs. Own Azure DevOps YAML CI/CD for .NET apps, Terraform IaC and the planned App Service to AKS migration.",
+  "source": "JoinDevOps",
+  "posted": "11 Nov 2026",
+  "apply_url": "https://jobs.joindevops.com/jobs/802273873-azure-devops-engineer"
+}
