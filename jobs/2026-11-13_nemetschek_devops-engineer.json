@@ -1,0 +1,20 @@
+{
+  "role": "DevOps Engineer",
+  "role_slug": "devops",
+  "level_slug": "mid-senior",
+  "company": "Nemetschek Group",
+  "experience": "5–7 Years",
+  "experience_note": "3–5 yrs CI/CD & AWS cloud",
+  "salary": "Not disclosed",
+  "employment_type": "Full-time",
+  "work_mode": "Permanent role",
+  "city": "Bengaluru",
+  "location_note": "Karnataka, India",
+  "openings": "Hiring now",
+  "openings_note": "Apply early",
+  "skills": ["AWS", "Kubernetes / EKS", "Terraform", "GitHub Actions", "Jenkins / Argo CD", "Docker / Helm", "Python / Bash", "Prometheus / Grafana"],
+  "eligibility": "5–7 yrs in DevOps/SRE/platform/cloud roles; build CI/CD, IaC and K8s self-service platform tooling; on-call rotation.",
+  "source": "JoinDevOps",
+  "posted": "12 Nov 2026",
+  "apply_url": "https://jobs.joindevops.com/jobs/804378104-devops-engineer"
+}
