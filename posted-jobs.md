@@ -13,6 +13,7 @@ Format: - YYYY-MM-DD HH:MM IST | Company | Role | Apply URL | Instagram media id
 - 2026-11-12 13:13 IST | Onit | Lead DevOps Engineer (Pune) | https://builtinpune.in/job/lead-devops-engineer/12183953 | 18156643891549643 | 17893143555686780
 - 2026-11-12 17:14 IST | HealthEdge | Senior DevOps Engineer (Bengaluru) | https://jobs.joindevops.com/jobs/802459058-senior-devops-engineer | 18404066560165002 | 18078494285739587
 - 2026-11-12 21:12 IST | Keyloop | Cloud Engineer (Hyderabad) | https://jobs.joindevops.com/jobs/803279866-cloud-engineer | 17961553794260352 | 18235215685325910
+- 2026-11-13 08:59 IST | Nemetschek Group | DevOps Engineer (Bengaluru) | https://jobs.joindevops.com/jobs/804378104-devops-engineer | 18111500291226317 | 18135017722776032
 
 ## Earlier posts (manual / pre-automation)
 - 2026-11-02 | Reizend Private Limited | Junior DevOps Engineer | Naukri listing (posted manually)
