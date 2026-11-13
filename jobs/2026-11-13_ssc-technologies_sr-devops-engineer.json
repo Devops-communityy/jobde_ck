@@ -1,0 +1,20 @@
+{
+  "role": "Sr. DevOps Engineer",
+  "role_slug": "devops",
+  "level_slug": "senior",
+  "company": "SS&C Technologies",
+  "experience": "6+ Years",
+  "experience_note": "DevOps, SRE or similar role",
+  "salary": "Not disclosed",
+  "employment_type": "Full-time",
+  "work_mode": "Permanent role",
+  "city": "Hyderabad",
+  "location_note": "Telangana, India",
+  "openings": "Hiring now",
+  "openings_note": "Open until filled",
+  "skills": ["AWS / Azure / GCP", "Terraform", "Ansible", "Jenkins / GitLab CI", "Azure DevOps", "Docker", "Kubernetes", "Prometheus / Grafana", "Python / Bash"],
+  "eligibility": "6+ yrs in DevOps/SRE; strong in one major cloud, CI/CD tools and IaC (Terraform, Ansible); lead CI/CD and infra automation.",
+  "source": "JoinDevOps",
+  "posted": "12 Nov 2026",
+  "apply_url": "https://jobs.joindevops.com/jobs/804263391-pa26itoffq3055-sr-devops-engineer"
+}
