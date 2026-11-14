@@ -1,0 +1,20 @@
+{
+  "role": "DevOps Engineer 3",
+  "role_slug": "devops",
+  "level_slug": "mid-senior",
+  "company": "Comcast",
+  "experience": "5–7 Years",
+  "experience_note": "Relevant work experience",
+  "salary": "Not disclosed",
+  "employment_type": "Full-time",
+  "work_mode": "Permanent role",
+  "city": "Chennai",
+  "location_note": "Tamil Nadu, India",
+  "openings": "Hiring now",
+  "openings_note": "Open until filled",
+  "skills": ["CI/CD Pipelines", "SDLC", "Release Automation", "Infrastructure", "Monitoring", "Performance Tuning", "Programming", "Mentoring"],
+  "eligibility": "5–7 yrs relevant experience; Bachelor's preferred; own CI/CD from commit to production; nights/weekends as needed.",
+  "source": "JoinDevOps",
+  "posted": "13 Nov 2026",
+  "apply_url": "https://jobs.joindevops.com/jobs/806128802-devops-engineer-3"
+}
