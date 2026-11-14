@@ -16,6 +16,7 @@ Format: - YYYY-MM-DD HH:MM IST | Company | Role | Apply URL | Instagram media id
 - 2026-11-13 08:59 IST | Nemetschek Group | DevOps Engineer (Bengaluru) | https://jobs.joindevops.com/jobs/804378104-devops-engineer | 18111500291226317 | 18135017722776032
 - 2026-11-13 17:58 IST | SS&C Technologies | Sr. DevOps Engineer (Hyderabad) | https://jobs.joindevops.com/jobs/804263391-pa26itoffq3055-sr-devops-engineer | 17981149779132041 | 18149240473584599
 - 2026-11-14 09:05 IST | Comcast | DevOps Engineer 3 (Chennai) | https://jobs.joindevops.com/jobs/806128802-devops-engineer-3 | 17934272064419552 | 18350640343251650
+- 2026-11-14 17:59 IST | Burns & McDonnell India | Senior DevOps Engineer (Bengaluru) | https://jobs.joindevops.com/jobs/806128811-senior-devops-engineer | 18079210808447257 | 18120082199016639
 
 ## Earlier posts (manual / pre-automation)
 - 2026-11-02 | Reizend Private Limited | Junior DevOps Engineer | Naukri listing (posted manually)
