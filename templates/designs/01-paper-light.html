@@ -15,7 +15,7 @@ body{margin:0}
 </style>
 </head>
 <body>
-<div style="width:1080px;height:1080px;box-sizing:border-box;padding:40px 64px 52px;background:#F6F1E7;color:#1B2A41;font-family:'Space Grotesk',system-ui,sans-serif;display:flex;flex-direction:column;gap:24px;overflow:hidden">
+<div style="width:1080px;height:1080px;box-sizing:border-box;padding:40px 64px 52px;background:#F6F1E7;color:#1B2A41;font-family:'Space Grotesk',system-ui,sans-serif;display:flex;flex-direction:column;gap:24px;overflow:hidden;position:relative;isolation:isolate">
 
 <div style="display:flex;justify-content:space-between;align-items:center">
   <div style="display:flex;align-items:center;gap:22px">
@@ -32,7 +32,7 @@ body{margin:0}
 
 <div style="display:flex;flex-direction:column;gap:12px">
   <h1 style="margin:0;font-size:{{ROLE_SIZE}}px;line-height:1.02;font-weight:700;letter-spacing:-1.5px">{{ROLE}}</h1>
-  <div style="font-size:34px;font-weight:500;color:#374151">at <span style="font-weight:700;color:#1B2A41;border-bottom:5px solid #FFD166">{{COMPANY}}</span></div>
+  <div style="position:relative;padding-right:90px;font-size:34px;font-weight:500;color:#374151">{{COMPANY_LOGO}}at <span style="font-weight:700;color:#1B2A41;border-bottom:5px solid #FFD166">{{COMPANY}}</span>{{ROLE_ART}}</div>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px 22px;padding-right:6px">

@@ -15,7 +15,7 @@ body{margin:0}
 </style>
 </head>
 <body>
-<div style="width:1080px;height:1080px;box-sizing:border-box;padding:40px 64px 48px;background:radial-gradient(circle at 92% 6%,#FF6FB5 0,rgba(255,111,181,0) 38%),linear-gradient(140deg,#3B1C9E 0%,#5B2BD6 45%,#1E5BD8 100%);color:#FFFFFF;font-family:'Space Grotesk',system-ui,sans-serif;display:flex;flex-direction:column;gap:26px;overflow:hidden">
+<div style="width:1080px;height:1080px;box-sizing:border-box;padding:40px 64px 48px;background:radial-gradient(circle at 92% 6%,#FF6FB5 0,rgba(255,111,181,0) 38%),linear-gradient(140deg,#3B1C9E 0%,#5B2BD6 45%,#1E5BD8 100%);color:#FFFFFF;font-family:'Space Grotesk',system-ui,sans-serif;display:flex;flex-direction:column;gap:26px;overflow:hidden;position:relative;isolation:isolate">
 
 <div style="display:flex;justify-content:space-between;align-items:center">
   <div style="display:flex;align-items:center;gap:22px">
@@ -29,7 +29,7 @@ body{margin:0}
 
 <div style="display:flex;flex-direction:column;gap:12px">
   <h1 style="margin:0;font-size:{{ROLE_SIZE}}px;line-height:1.02;font-weight:700;letter-spacing:-1.5px">{{ROLE}}</h1>
-  <div style="font-size:34px;font-weight:500;color:#E0DCFA">{{COMPANY}}</div>
+  <div style="position:relative;padding-right:90px;font-size:34px;font-weight:500;color:#E0DCFA">{{COMPANY_LOGO}}{{COMPANY}}{{ROLE_ART}}</div>
 </div>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px">

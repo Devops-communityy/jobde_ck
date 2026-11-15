@@ -31,7 +31,27 @@ Write `jobs/<YYYY-MM-DD>_<company-slug>_<role-slug>.json` (see existing files fo
 Render: `python3 scripts/render_poster.py jobs/<file>.json posters/<same-name>.jpg`
 (needs Python Playwright; uses /usr/bin/google-chrome if present, else `python3 -m playwright install chromium`).
 Open the JPEG and check nothing overflows or is cut off; shorten text and re-render if needed.
-The JobDeck logo (`assets/logo.png`) is shown top-left on every template; the renderer auto-shrinks long role titles so nothing overflows. Templates rotate WEEKLY (Mon–Sun, IST): `templates/weekly/1-terminal-dark.html` → `2-paper-light.html` → `3-gradient-glass.html` → `4-blueprint.html` → back to 1. The week of Mon 9 Nov 2026 is template 1. `render_poster.py` picks the week's template automatically — don't pass `--template` in scheduled runs and don't change the designs. To add a design, drop a new `N-name.html` with the same `{{PLACEHOLDERS}}` into `templates/weekly/`.
+The JobDeck logo (`assets/logo.png`) is shown top-left on every template; the renderer auto-shrinks long role titles so nothing overflows. Don't pass `--template` in scheduled runs.
+
+### 2a. Design rotation — a NEW design every 5 days
+- Periods (IST): period 00 = up to 15 Nov 2026; period 01 = 16–20 Nov 2026; period 02 = 21–25 Nov; and so on, 5 days each (`python3 scripts/render_poster.py --which` prints today's period and design).
+- Each period uses its own design file `templates/designs/NN-<name>.html` (NN = period number, 2 digits). Every period must look new — never reuse an older design.
+- Already prepared: 00-terminal-dark (used), 01-paper-light, 02-gradient-glass, 03-blueprint.
+- If the render exits with code 3 / prints `NEW_TEMPLATE_NEEDED`, do section 2b first, then render again.
+
+### 2b. Making the new design (only when NEW_TEMPLATE_NEEDED)
+- Copy the most recent design to `templates/designs/NN-<short-name>.html`.
+- **Layout must not change**: same 1080×1080 root, same blocks in the same order and positions — header (JobDeck logo + kicker + tag pill), role title, company line, 2×2 cards (Experience, Salary/Job type, Location, Openings), tech-stack chips, Eligibility line, Apply bar at the bottom. Keep every `{{PLACEHOLDER}}` exactly once, keep the company-line `<div style="position:relative;padding-right:90px;...">{{COMPANY_LOGO}}…{{COMPANY}}…{{ROLE_ART}}</div>` and the CSS classes `.card .lbl .val .note .val.salary .chip`.
+- Change only the look: colour palette, background (gradients, subtle patterns, grids, shapes drawn in CSS/inline SVG), fonts (Google Fonts only), card/chip/CTA styling, kicker/tag wording. Make it clearly different from the last 3 designs. Keep text contrast high (WCAG AA) and all text readable on a phone.
+- No external images other than Google Fonts; draw any decoration in CSS or inline SVG yourself. Don't use other brands' logos as decoration.
+- Validate: `python3 scripts/render_poster.py --check-template templates/designs/NN-<name>.html` must print OK. Then render the job, look at the JPEG, fix anything that overflows or looks off.
+- Commit the new design together with the job's poster.
+
+### 2c. Logos and images (automatic — layout unchanged)
+- **Tech-stack icons**: a chip gets a small icon when its skill matches a file in `assets/tech-icons/` (Devicon set, MIT; aliases like AWS, GCP, K8s, Kafka are handled in the script). To add a tool, copy its icon from the Devicon npm package (`npm pack devicon`) into `assets/tech-icons/<name>.svg`. Write skills with their usual names (e.g. "Terraform", "GitHub Actions") so they match.
+- **Hiring company logo**: shown in a small pill before the company name when `assets/company-logos/<company-slug>.svg|png|jpg|webp` exists; otherwise the script looks up the exact company name in the Simple Icons set (npm) and caches it there. If none is found it writes `<slug>.none` and shows no logo — never draw or invent a company logo. You may add a real logo file taken from the company's own official website/press kit if you can reach it; otherwise skip.
+- **Role illustration**: a small line-art icon at the right end of the company line, chosen from the role title (`assets/role-art/`: cloud, pipeline, containers, server, reliability, shield, observability, stream, mlops). Override with `"role_art": "<name>"` or `"none"` in the job JSON.
+- Commit any new files under `assets/` with the poster.
 
 Commit + push the JSON and JPEG to `main`. Confirm the image URL returns 200:
 `https://raw.githubusercontent.com/Devops-communityy/jobde_ck/main/posters/<file>.jpg`
