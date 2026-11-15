@@ -1,0 +1,20 @@
+{
+  "role": "Azure DevOps Engineer",
+  "role_slug": "azure-devops",
+  "level_slug": "senior",
+  "company": "Arcadis",
+  "experience": "5–15 Years",
+  "experience_note": "Hands-on Azure DevOps & platform eng.",
+  "salary": "Not disclosed",
+  "employment_type": "Full-time",
+  "work_mode": "See listing",
+  "city": "Hyderabad",
+  "location_note": "Balanagar, Hyderabad",
+  "openings": "Hiring now",
+  "openings_note": "Open until filled",
+  "skills": ["Azure DevOps", "GitHub Actions", "Terraform", "CI/CD", "IaC", "DevSecOps", "Containers", "C#", "ReactJS"],
+  "eligibility": "Min. 5 (up to 15) yrs deep hands-on Azure DevOps & platform engineering; Terraform, GitHub Actions, IaC, DevSecOps.",
+  "source": "JoinDevOps",
+  "posted": "15 Nov 2026",
+  "apply_url": "https://jobs.joindevops.com/jobs/807693991-azure-devops-engineer"
+}
