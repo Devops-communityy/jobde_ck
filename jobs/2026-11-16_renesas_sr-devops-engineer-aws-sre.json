@@ -1,0 +1,20 @@
+{
+  "role": "Sr. DevOps Engineer (AWS, SRE)",
+  "role_slug": "devops",
+  "level_slug": "senior",
+  "company": "Renesas Electronics",
+  "experience": "6+ Years",
+  "experience_note": "DevOps / SRE environment",
+  "salary": "Not disclosed",
+  "employment_type": "Full-time",
+  "work_mode": "Remote work option",
+  "city": "Bengaluru",
+  "location_note": "Bengaluru, India",
+  "openings": "Hiring now",
+  "openings_note": "Professional Services team",
+  "skills": ["AWS", "Kubernetes", "Terraform", "Jenkins", "GitLab", "Prometheus", "Python", "Go", "Bash"],
+  "eligibility": "6+ yrs in DevOps/SRE and 6+ yrs with Linux & Windows systems; AWS (EKS, EC2, RDS, Lambda), K8s monitoring/APM.",
+  "source": "JoinDevOps",
+  "posted": "15 Nov 2026",
+  "apply_url": "https://jobs.joindevops.com/jobs/808496653-sr-devops-engineer-aws-sre"
+}
