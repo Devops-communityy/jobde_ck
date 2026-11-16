@@ -21,6 +21,7 @@ Format: - YYYY-MM-DD HH:MM IST | Company | Role | Apply URL | Instagram media id
 - 2026-11-15 18:00 IST | Arcadis | Azure DevOps Engineer (Hyderabad) | https://jobs.joindevops.com/jobs/807693991-azure-devops-engineer | 18121001912054837 | 18103174709381443
 - 2026-11-15 22:13 IST | MsgKart | Lead - DevOps (Bengaluru) | https://jobs.joindevops.com/jobs/808267695-lead-devops | 18110043802951769 | 17982688499917318
 - 2026-11-16 08:59 IST | Renesas Electronics | Sr. DevOps Engineer (AWS, SRE) (Bengaluru) | https://jobs.joindevops.com/jobs/808496653-sr-devops-engineer-aws-sre | 17991522951083154 | 18234238027334871
+- 2026-11-16 18:01 IST | Baker Tilly US | Senior DevOps Engineer (Bengaluru) | https://jobs.joindevops.com/jobs/808496655-senior-devops-engineer | 18215915257362863 | 18121282711954559
 
 ## Earlier posts (manual / pre-automation)
 - 2026-11-02 | Reizend Private Limited | Junior DevOps Engineer | Naukri listing (posted manually)
