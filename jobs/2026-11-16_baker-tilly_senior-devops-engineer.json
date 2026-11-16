@@ -1,0 +1,20 @@
+{
+  "role": "Senior DevOps Engineer",
+  "role_slug": "devops",
+  "level_slug": "senior",
+  "company": "Baker Tilly US",
+  "experience": "3+ Years",
+  "experience_note": "DevOps or similar role",
+  "salary": "Not disclosed",
+  "employment_type": "Full-time",
+  "work_mode": "Senior level",
+  "city": "Bengaluru",
+  "location_note": "Bengaluru East, India",
+  "openings": "Hiring now",
+  "openings_note": "BTVK Advisory (Baker Tilly)",
+  "skills": ["AWS", "Terraform", "CloudFormation", "GitHub Actions", "Azure DevOps", "Packer", "Linux", "Python", "Bash"],
+  "eligibility": "Bachelor's degree, 3+ yrs DevOps; CloudFormation & Terraform, Linux hardening, Packer AMIs. AWS Pro cert preferred.",
+  "source": "JoinDevOps",
+  "posted": "16 Nov 2026",
+  "apply_url": "https://jobs.joindevops.com/jobs/808496655-senior-devops-engineer"
+}
