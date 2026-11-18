@@ -1,0 +1,20 @@
+{
+  "role": "Sr Software Engineer (DevOps)",
+  "role_slug": "devops",
+  "level_slug": "senior",
+  "company": "Akamai Technologies",
+  "experience": "5+ Years",
+  "experience_note": "5+ yrs relevant experience",
+  "salary": "Not disclosed",
+  "employment_type": "Full-time",
+  "work_mode": "Remote / FlexBase",
+  "city": "Bengaluru",
+  "location_note": "Remote (Bengaluru, IN)",
+  "openings": "Hiring now",
+  "openings_note": "ZeroTrust Security Group",
+  "skills": ["Kubernetes", "Helm", "Terraform", "Prometheus", "Grafana", "Azure", "AWS", "GitHub"],
+  "eligibility": "5+ yrs relevant experience + B.Sc. CS or equivalent; multi-cloud Kubernetes, IaC (Terraform) and Prometheus/Grafana monitoring.",
+  "source": "JoinDevOps",
+  "posted": "17 Nov 2026",
+  "apply_url": "https://jobs.joindevops.com/jobs/810088949-senior-software-engineer-devops"
+}
