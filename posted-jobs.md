@@ -24,6 +24,7 @@ Format: - YYYY-MM-DD HH:MM IST | Company | Role | Apply URL | Instagram media id
 - 2026-11-16 18:01 IST | Baker Tilly US | Senior DevOps Engineer (Bengaluru) | https://jobs.joindevops.com/jobs/808496655-senior-devops-engineer | 18215915257362863 | 18121282711954559
 - 2026-11-17 17:59 IST | Adform | DevOps Engineer (Mumbai) | https://jobs.joindevops.com/jobs/809208461-devops-engineer | 17912543733663849 | 18130977880842095
 - 2026-11-18 09:00 IST | Akamai Technologies | Senior Software Engineer (DevOps) (Bengaluru, Remote) | https://jobs.joindevops.com/jobs/810088949-senior-software-engineer-devops | 18192625183414133 | 18114452732614827
+- 2026-11-18 18:01 IST | Epiroc | Azure DevOps Engineer (Bengaluru) | https://jobs.joindevops.com/jobs/809951906-azure-devops-engineer | 17998431086844135 | 18150279940574489
 
 ## Earlier posts (manual / pre-automation)
 - 2026-11-02 | Reizend Private Limited | Junior DevOps Engineer | Naukri listing (posted manually)
