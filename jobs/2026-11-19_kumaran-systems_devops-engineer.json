@@ -1,0 +1,20 @@
+{
+  "role": "DevOps Engineer",
+  "role_slug": "devops-engineer",
+  "level_slug": "mid-level",
+  "company": "Kumaran Systems",
+  "experience": "4–6 Years",
+  "experience_note": "CI/CD / GitHub Actions",
+  "salary": "Not disclosed",
+  "employment_type": "Full-time",
+  "work_mode": "Not specified",
+  "city": "Chennai",
+  "location_note": "Tamil Nadu, India",
+  "openings": "Hiring now",
+  "openings_note": "DevOps / CI-CD",
+  "skills": ["GitHub Actions", "JFrog Artifactory", "Vault", "OpenShift", "Helm", "Azure Data Factory", "Power BI", "Jira"],
+  "eligibility": "4–6 yrs; own GitHub Actions CI/CD, JFrog artifacts, Vault/Key Vault secrets, OpenShift + Helm deploys, ADF & Power BI support.",
+  "source": "JoinDevOps",
+  "posted": "18 Nov 2026",
+  "apply_url": "https://jobs.joindevops.com/jobs/811921389-devops-engineer"
+}
