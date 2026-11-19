@@ -1,0 +1,20 @@
+{
+  "role": "Senior DevOps Engineer",
+  "role_slug": "senior-devops",
+  "level_slug": "mid-senior",
+  "company": "ArmorCode Inc.",
+  "experience": "4+ Years",
+  "experience_note": "AWS / Terraform / EKS",
+  "salary": "Not disclosed",
+  "employment_type": "Full-time",
+  "work_mode": "Not specified",
+  "city": "Gurugram",
+  "location_note": "Haryana, India",
+  "openings": "Hiring now",
+  "openings_note": "DevOps / Cloud Infra",
+  "skills": ["AWS", "Terraform", "Kubernetes", "ECS", "Prometheus", "Grafana", "Elasticsearch", "Python", "Bash"],
+  "eligibility": "4+ yrs DevOps; strong AWS (Architect cert preferred), Terraform, EKS/ECS, monitoring, SQL tuning, scripting, FinOps.",
+  "source": "JoinDevOps",
+  "posted": "18 Nov 2026",
+  "apply_url": "https://jobs.joindevops.com/jobs/811921391-senior-devops-engineer"
+}
