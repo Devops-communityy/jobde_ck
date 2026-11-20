@@ -27,6 +27,7 @@ Format: - YYYY-MM-DD HH:MM IST | Company | Role | Apply URL | Instagram media id
 - 2026-11-18 18:01 IST | Epiroc | Azure DevOps Engineer (Bengaluru) | https://jobs.joindevops.com/jobs/809951906-azure-devops-engineer | 17998431086844135 | 18150279940574489
 - 2026-11-19 08:58 IST | ArmorCode Inc. | Senior DevOps Engineer (Gurugram) | https://jobs.joindevops.com/jobs/811921391-senior-devops-engineer | 18340851859302381 | 18122717275954793
 - 2026-11-19 17:59 IST | Kumaran Systems | DevOps Engineer (Chennai) | https://jobs.joindevops.com/jobs/811921389-devops-engineer | 17905197576604959 | 17931060096183502
+- 2026-11-20 08:58 IST | State Street | Senior DevOps Engineer - Assistant Manager (Hyderabad) | https://jobs.joindevops.com/jobs/814299337-senior-devops-engineer-assistant-manager | 18105553559374302 | 17966722548214496
 
 ## Earlier posts (manual / pre-automation)
 - 2026-11-02 | Reizend Private Limited | Junior DevOps Engineer | Naukri listing (posted manually)
