@@ -1,0 +1,21 @@
+{
+  "role": "Lead Cloud Engineer - AWS",
+  "role_slug": "lead-cloud-engineer-aws",
+  "level_slug": "lead",
+  "company": "Presidio",
+  "experience": "6+ Years",
+  "experience_note": "AWS cloud automation",
+  "salary": "Not disclosed",
+  "employment_type": "Full-time",
+  "work_mode": "Full-time",
+  "city": "Chennai",
+  "location_note": "Tamil Nadu, India",
+  "openings": "Hiring now",
+  "openings_note": "Lead level",
+  "skills": ["AWS", "Terraform", "Ansible", "Python", "Docker", "Kubernetes", "Jenkins", "GitLab CI", "Groovy"],
+  "eligibility": "6+ yrs; automate AWS infra with Terraform/CloudFormation; Ansible/Chef; Shell/Python scripting; Jenkins pipelines & Groovy shared libs.",
+  "source": "JoinDevOps",
+  "posted": "20 Nov 2026",
+  "role_art": "cloud",
+  "apply_url": "https://jobs.joindevops.com/jobs/814491735-lead-cloud-engineer-aws"
+}
