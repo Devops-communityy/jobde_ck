@@ -28,6 +28,7 @@ Format: - YYYY-MM-DD HH:MM IST | Company | Role | Apply URL | Instagram media id
 - 2026-11-19 08:58 IST | ArmorCode Inc. | Senior DevOps Engineer (Gurugram) | https://jobs.joindevops.com/jobs/811921391-senior-devops-engineer | 18340851859302381 | 18122717275954793
 - 2026-11-19 17:59 IST | Kumaran Systems | DevOps Engineer (Chennai) | https://jobs.joindevops.com/jobs/811921389-devops-engineer | 17905197576604959 | 17931060096183502
 - 2026-11-20 08:58 IST | State Street | Senior DevOps Engineer - Assistant Manager (Hyderabad) | https://jobs.joindevops.com/jobs/814299337-senior-devops-engineer-assistant-manager | 18105553559374302 | 17966722548214496
+- 2026-11-20 17:58 IST | Presidio | Lead Cloud Engineer - AWS (Chennai) | https://jobs.joindevops.com/jobs/814491735-lead-cloud-engineer-aws | 18102530312198796 | 18104364983384150
 
 ## Earlier posts (manual / pre-automation)
 - 2026-11-02 | Reizend Private Limited | Junior DevOps Engineer | Naukri listing (posted manually)
