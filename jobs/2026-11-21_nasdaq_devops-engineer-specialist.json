@@ -1,0 +1,21 @@
+{
+  "role": "DevOps Engineer - Specialist",
+  "role_slug": "devops-engineer-specialist",
+  "level_slug": "specialist",
+  "company": "Nasdaq",
+  "experience": "5+ Years",
+  "experience_note": "As a DevOps engineer",
+  "salary": "Not disclosed",
+  "employment_type": "Full-time",
+  "work_mode": "Full-time",
+  "city": "Mumbai",
+  "location_note": "Mumbai tech center",
+  "openings": "Hiring now",
+  "openings_note": "Specialist level",
+  "skills": ["AWS", "Terraform", "Docker", "Kubernetes", "CI/CD", "Linux", "Bash", "Python", "SQL"],
+  "eligibility": "5+ yrs as DevOps engineer; AWS & Terraform; CI/CD; Docker/K8s; Linux & Bash; Java/Kotlin/Python. CS/IS degree or equivalent.",
+  "source": "JoinDevOps",
+  "posted": "21 Nov 2026",
+  "role_art": "cloud",
+  "apply_url": "https://jobs.joindevops.com/jobs/816521234-devops-engineer-specialist"
+}
