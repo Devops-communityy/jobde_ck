@@ -1,0 +1,21 @@
+{
+  "role": "DevOps Engineer",
+  "role_slug": "devops-engineer",
+  "level_slug": "mid",
+  "company": "SonicWall",
+  "experience": "4–5+ Years",
+  "experience_note": "Distributed systems",
+  "salary": "Not disclosed",
+  "employment_type": "Full-time",
+  "work_mode": "Full-time",
+  "city": "Bengaluru",
+  "location_note": "Karnataka, India",
+  "openings": "Hiring now",
+  "openings_note": "Cloud platform team",
+  "skills": ["AWS", "Terraform", "AWS CDK", "Python", "Shell", "Docker", "Kubernetes", "Git", "CI/CD"],
+  "eligibility": "CS degree or equivalent; 4–5+ yrs scalable distributed systems; 2+ yrs AWS, IaC & scripting; Docker; 1+ yr Kubernetes.",
+  "source": "JoinDevOps",
+  "posted": "22 Nov 2026",
+  "role_art": "cloud",
+  "apply_url": "https://jobs.joindevops.com/jobs/818962281-devops-engineer"
+}
