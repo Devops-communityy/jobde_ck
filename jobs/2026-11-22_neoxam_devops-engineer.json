@@ -1,0 +1,21 @@
+{
+  "role": "DevOps Engineer",
+  "role_slug": "devops-engineer",
+  "level_slug": "mid",
+  "company": "NeoXam",
+  "experience": "3–7 Years",
+  "experience_note": "DevOps / SRE / Infra",
+  "salary": "Not disclosed",
+  "employment_type": "Full-time",
+  "work_mode": "Full-time",
+  "city": "Noida",
+  "location_note": "R&D team, India",
+  "openings": "Hiring now",
+  "openings_note": "R&D department",
+  "skills": ["Terraform", "Docker", "Kubernetes", "Jenkins", "GitHub Actions", "Ansible", "Prometheus", "Grafana", "Python"],
+  "eligibility": "3–7 yrs DevOps/SRE/infra; hands-on AWS, Azure or GCP; IaC (Terraform); Docker/K8s; CI/CD; Linux & networking.",
+  "source": "JoinDevOps",
+  "posted": "22 Nov 2026",
+  "role_art": "pipeline",
+  "apply_url": "https://jobs.joindevops.com/jobs/818962278-devops-engineer-noida"
+}
