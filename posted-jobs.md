@@ -32,6 +32,7 @@ Format: - YYYY-MM-DD HH:MM IST | Company | Role | Apply URL | Instagram media id
 - 2026-11-21 09:05 IST | Nasdaq | DevOps Engineer - Specialist (Mumbai) | https://jobs.joindevops.com/jobs/816521234-devops-engineer-specialist | 17990756582881310 | 18474065803142076
 - 2026-11-21 17:58 IST | Deutsche Bahn | DevOps Engineer / Platform Engineer - DB E&C (Bengaluru) | https://jobs.joindevops.com/jobs/816521238-devops-engineer-platform-engineer-db-e-c-india-f-m-d | 18197862985399510 | 18205011295389455
 - 2026-11-22 08:58 IST | NeoXam | DevOps Engineer (Noida) | https://jobs.joindevops.com/jobs/818962278-devops-engineer-noida | 18049771553620014 | 18012907886778144
+- 2026-11-22 17:58 IST | SonicWall | DevOps Engineer (Bengaluru) | https://jobs.joindevops.com/jobs/818962281-devops-engineer | 17921885904462688 | 18002756388012908
 
 ## Earlier posts (manual / pre-automation)
 - 2026-11-02 | Reizend Private Limited | Junior DevOps Engineer | Naukri listing (posted manually)
