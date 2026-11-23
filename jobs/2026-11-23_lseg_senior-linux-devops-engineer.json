@@ -1,0 +1,21 @@
+{
+  "role": "Senior Linux DevOps Engineer",
+  "role_slug": "senior-linux-devops-engineer",
+  "level_slug": "senior",
+  "company": "LSEG",
+  "experience": "5–7+ Years",
+  "experience_note": "Linux (RHEL) + Python",
+  "salary": "Not disclosed",
+  "employment_type": "Full-time",
+  "work_mode": "Full-time",
+  "city": "Mumbai",
+  "location_note": "Mumbai Metropolitan Region",
+  "openings": "Hiring now",
+  "openings_note": "PCAP team · Sr Associate",
+  "skills": ["Linux", "Python", "Ansible", "Docker", "Podman", "GitLab", "GitHub", "Datadog", "AWS"],
+  "eligibility": "5–7+ yrs Linux (RHEL), 5+ yrs Python; Ansible, CI/CD, IaC. US Eastern hours for first 6 months; some weekend deployments.",
+  "source": "JoinDevOps",
+  "posted": "23 Nov 2026",
+  "role_art": "server",
+  "apply_url": "https://jobs.joindevops.com/jobs/820814112-senior-linux-devops-engineer-pcap"
+}
