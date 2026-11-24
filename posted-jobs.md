@@ -35,6 +35,7 @@ Format: - YYYY-MM-DD HH:MM IST | Company | Role | Apply URL | Instagram media id
 - 2026-11-22 17:58 IST | SonicWall | DevOps Engineer (Bengaluru) | https://jobs.joindevops.com/jobs/818962281-devops-engineer | 17921885904462688 | 18002756388012908
 - 2026-11-23 08:59 IST | UPS | Cloud DevOps Engineer (Chennai) | https://jobs.joindevops.com/jobs/819163240-cloud-devops-engineer | 17921381457465324 | 18646573240008593
 - 2026-11-23 18:02 IST | LSEG | Senior Linux DevOps Engineer - PCAP (Mumbai) | https://jobs.joindevops.com/jobs/820814112-senior-linux-devops-engineer-pcap | 18150053035499146 | 18131629189798947
+- 2026-11-24 08:57 IST | ServiceNow | Senior DevOps Engineer - Flow (Bengaluru) | https://jobs.joindevops.com/jobs/823817340-senior-devops-engineer-flow | 18118302701040545 | 18132589040478055
 
 ## Earlier posts (manual / pre-automation)
 - 2026-11-02 | Reizend Private Limited | Junior DevOps Engineer | Naukri listing (posted manually)
