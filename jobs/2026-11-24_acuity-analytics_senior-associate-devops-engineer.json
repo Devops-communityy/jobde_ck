@@ -1,0 +1,21 @@
+{
+  "role": "Sr Associate - DevOps Engineer",
+  "role_slug": "senior-associate-devops-engineer",
+  "level_slug": "senior",
+  "company": "Acuity Analytics",
+  "experience": "6–9 Years",
+  "experience_note": "Hands-on DevOps",
+  "salary": "Not disclosed",
+  "employment_type": "Full-time",
+  "work_mode": "Full-time",
+  "city": "Gurugram",
+  "location_note": "Haryana, India",
+  "openings": "Hiring now",
+  "openings_note": "DevOps team",
+  "skills": ["GitHub Actions", "Azure DevOps", "Kubernetes", "OpenShift", "Helm", "Terraform", "Bamboo", "Python", "PowerShell"],
+  "eligibility": "6–9 yrs hands-on DevOps; production GitHub Actions & Azure DevOps; GitOps, IaC, CI/CD security; banking domain a plus.",
+  "source": "JoinDevOps",
+  "posted": "24 Nov 2026",
+  "role_art": "pipeline",
+  "apply_url": "https://jobs.joindevops.com/jobs/823784391-senior-associate-devops-engineer"
+}
