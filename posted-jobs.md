@@ -68,3 +68,4 @@ Format: - YYYY-MM-DD HH:MM IST | Company | Role | Apply URL | Instagram media id
 - 2026-11-10 | Hubbell Incorporated | Specialist DevOps Engineer (Hyderabad) | https://jobs.joindevops.com/jobs/801196609-specialist-devops-engineer
 - 2026-11-10 | NVIDIA | Senior DevOps Engineer (Remote, India) | https://jobs.joindevops.com/jobs/801196608-senior-devops-engineer
 - 2026-11-26 16:34 IST | Global Payments Inc. | DevOps Engineer (Pune) | https://jobs.joindevops.com/jobs/783277021-devops-engineer-4-6-years | 18137183320588868 | 18642915040040529
+- 2026-11-26 18:00 IST | CoinDCX | Senior Software Engineer 1 - DevOps (Bengaluru) | https://jobs.joindevops.com/jobs/823528599-senior-software-engineer-1-devops | 18135008491615246 | 18098635769445294
