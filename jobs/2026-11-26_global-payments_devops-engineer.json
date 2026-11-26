@@ -1,0 +1,21 @@
+{
+  "role": "DevOps Engineer",
+  "role_slug": "devops-engineer",
+  "level_slug": "mid-senior",
+  "company": "Global Payments Inc.",
+  "experience": "4–7 Years",
+  "experience_note": "DevOps / SRE / Platform",
+  "salary": "Not disclosed",
+  "employment_type": "Full-time",
+  "work_mode": "Full-time",
+  "city": "Pune",
+  "location_note": "Pimpri-Chinchwad, India",
+  "openings": "Hiring now",
+  "openings_note": "VAP team",
+  "skills": ["Jenkins", "GitHub Actions", "Docker", "Ansible", "Linux", "Bash", "Python", "Prometheus", "Grafana"],
+  "eligibility": "4–7 yrs DevOps/SRE/Platform; Jenkins pipelines & shared libraries, Docker, Ansible, Linux admin, Bash/Python, monitoring.",
+  "source": "JoinDevOps",
+  "posted": "26 Nov 2026",
+  "role_art": "pipeline",
+  "apply_url": "https://jobs.joindevops.com/jobs/783277021-devops-engineer-4-6-years"
+}
