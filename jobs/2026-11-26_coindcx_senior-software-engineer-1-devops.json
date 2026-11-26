@@ -1,0 +1,21 @@
+{
+  "role": "Senior SWE 1 - DevOps",
+  "role_slug": "senior-software-engineer-1-devops",
+  "level_slug": "mid-senior",
+  "company": "CoinDCX",
+  "experience": "3–5 Years",
+  "experience_note": "DevOps, containers & K8s",
+  "salary": "Not disclosed",
+  "employment_type": "Full-time",
+  "work_mode": "On-site",
+  "city": "Bengaluru",
+  "location_note": "Work from office",
+  "openings": "Hiring now",
+  "openings_note": "Platform / DevOps team",
+  "skills": ["Kubernetes", "Docker", "Helm", "ArgoCD", "Terraform", "AWS", "Prometheus", "Grafana", "Kafka"],
+  "eligibility": "3–5 yrs DevOps with containers & Kubernetes; IaC (Terraform/Pulumi/Ansible), cloud, Shell/Python/Go. Cloud/K8s cert a plus.",
+  "source": "JoinDevOps",
+  "posted": "24 Nov 2026",
+  "role_art": "containers",
+  "apply_url": "https://jobs.joindevops.com/jobs/823528599-senior-software-engineer-1-devops"
+}
