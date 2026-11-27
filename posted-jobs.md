@@ -70,3 +70,4 @@ Format: - YYYY-MM-DD HH:MM IST | Company | Role | Apply URL | Instagram media id
 - 2026-11-26 16:34 IST | Global Payments Inc. | DevOps Engineer (Pune) | https://jobs.joindevops.com/jobs/783277021-devops-engineer-4-6-years | 18137183320588868 | 18642915040040529
 - 2026-11-26 18:00 IST | CoinDCX | Senior Software Engineer 1 - DevOps (Bengaluru) | https://jobs.joindevops.com/jobs/823528599-senior-software-engineer-1-devops | 18135008491615246 | 18098635769445294
 - 2026-11-27 08:59 IST | mea | DevOps Engineer (Bengaluru) | https://jobs.joindevops.com/jobs/831962888-devops-engineer | 17991563201883351 | 18118242125136185
+- 2026-11-27 18:10 IST | Sony India Software Centre | Senior DevOps Engineer (Bengaluru) | https://jobs.joindevops.com/jobs/828983034-senior-devops-engineer | 18003126342015985 | 18131293502478745
