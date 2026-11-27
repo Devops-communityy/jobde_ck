@@ -1,0 +1,21 @@
+{
+  "role": "Senior DevOps Engineer",
+  "role_slug": "senior-devops-engineer",
+  "level_slug": "senior",
+  "company": "Sony India Software Centre",
+  "experience": "8+ Years",
+  "experience_note": "DevOps on AWS or Azure",
+  "salary": "Not disclosed",
+  "employment_type": "Full-time",
+  "work_mode": "Kubernetes · AWS focus",
+  "city": "Bengaluru",
+  "location_note": "Bangalore, India",
+  "openings": "Hiring now",
+  "openings_note": "Core DevOps team",
+  "skills": ["Kubernetes", "AWS", "Terraform", "Docker", "Helm", "Istio", "Jenkins", "Python", "Prometheus"],
+  "eligibility": "8+ yrs DevOps (AWS/Azure); production Kubernetes, service mesh (Istio/Linkerd), IaC, Python/Go. Bachelor's in CS/IT.",
+  "source": "JoinDevOps",
+  "posted": "27 Nov 2026",
+  "role_art": "containers",
+  "apply_url": "https://jobs.joindevops.com/jobs/828983034-senior-devops-engineer"
+}
