@@ -1,0 +1,21 @@
+{
+  "role": "DevOps Engineer",
+  "role_slug": "devops-engineer",
+  "level_slug": "mid",
+  "company": "Deloitte",
+  "experience": "3+ Years",
+  "experience_note": "DevSecOps on AWS & Azure",
+  "salary": "Not disclosed",
+  "employment_type": "Full-time",
+  "work_mode": "Full-time · AWS + Azure",
+  "city": "Bengaluru",
+  "location_note": "Bengaluru, India",
+  "openings": "Hiring now",
+  "openings_note": "Full-time role",
+  "skills": ["AWS", "Azure DevOps", "Terraform", "Kubernetes", "Docker", "Helm", "Jenkins", "Grafana", "Python"],
+  "eligibility": "3+ yrs DevOps/DevSecOps: AWS (EKS, ECS, IAM), Terraform/CloudFormation, CI/CD, GitOps, Python/Bash, monitoring.",
+  "source": "JoinDevOps",
+  "posted": "27 Nov 2026",
+  "role_art": "pipeline",
+  "apply_url": "https://jobs.joindevops.com/jobs/834277553-devops-engineer"
+}
