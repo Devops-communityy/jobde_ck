@@ -72,3 +72,4 @@ Format: - YYYY-MM-DD HH:MM IST | Company | Role | Apply URL | Instagram media id
 - 2026-11-27 08:59 IST | mea | DevOps Engineer (Bengaluru) | https://jobs.joindevops.com/jobs/831962888-devops-engineer | 17991563201883351 | 18118242125136185
 - 2026-11-27 18:10 IST | Sony India Software Centre | Senior DevOps Engineer (Bengaluru) | https://jobs.joindevops.com/jobs/828983034-senior-devops-engineer | 18003126342015985 | 18131293502478745
 - 2026-11-28 08:59 IST | Ajackus | Senior DevOps Engineer (Remote, India) | https://jobs.joindevops.com/jobs/806418519-senior-devops-engineer | 17986072905139625 | 17915018865569105
+- 2026-11-28 17:58 IST | Deloitte | DevOps Engineer (Bengaluru) | https://jobs.joindevops.com/jobs/834277553-devops-engineer | 18126274850281828 | 17910818655598498
