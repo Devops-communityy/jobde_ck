@@ -1,0 +1,21 @@
+{
+  "role": "Senior DevOps Engineer",
+  "role_slug": "senior-devops-engineer",
+  "level_slug": "senior",
+  "company": "Ajackus",
+  "experience": "6+ Years",
+  "experience_note": "Cloud engineering on AWS",
+  "salary": "Not disclosed",
+  "employment_type": "Full-time",
+  "work_mode": "Remote · AWS focus",
+  "city": "Remote",
+  "location_note": "Remote (Mumbai, India)",
+  "openings": "Hiring now",
+  "openings_note": "Full-time role",
+  "skills": ["AWS", "Terraform", "CI/CD", "Python", "Bash", "Lambda", "EC2", "Cloud Security"],
+  "eligibility": "6+ yrs cloud engineering with strong hands-on AWS; Terraform IaC, CI/CD, Python/Bash. Bachelor's in CS/IT or related.",
+  "source": "JoinDevOps",
+  "posted": "27 Nov 2026",
+  "role_art": "cloud",
+  "apply_url": "https://jobs.joindevops.com/jobs/806418519-senior-devops-engineer"
+}
